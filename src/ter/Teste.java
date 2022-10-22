@@ -6,4 +6,5 @@ public class Teste {
 		// TODO Auto-generated constructor stub
 	}
 int a;
+int b;
 }
